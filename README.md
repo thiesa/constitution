@@ -12,7 +12,7 @@ This constitution is a community effort, and everyone is welcome to file issues 
 
 ## Download
 
-Soon, you will be able to download this document in many formats. As of writing this, Markdown is the only format available.
+Soon, you will be able to download this document in many formats. As of writing this, Markdown is the only format available on Github. However, you can find the living document on [Google Drive](https://docs.google.com/document/d/1HF59K3xwJ2LlVrYNL-TaZCzlCvvHM7bpdQToDbWWovQ/edit?usp=sharing).
 
 Available formats: [Markdown]
 
