@@ -35,4 +35,4 @@ Stolen from [Liberland](https://github.com/liberland/constitution) with love and
 [![http://www.gnu.org/licenses/gpl-3.0.en.html](https://licensebuttons.net/l/GPL/2.0/88x62.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)
 
 
-[Markdown]: https://github.com/thiesa/docs/raw/master/constitution/constitution.md
+[Markdown]: https://raw.githubusercontent.com/thiesa/constitution/master/constitution.md
