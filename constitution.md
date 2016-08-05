@@ -6,7 +6,7 @@
 ## Article III: The Government
 
 * **§III.1.** Functions of the State
-* **§III.2.** The Monarch
+* **§III.2.** The Prime Minister
 * **§III.3.** The Cabinet
 * **§III.4.** Parliament/Legislation
 * **§III.5.** The Judiciary
